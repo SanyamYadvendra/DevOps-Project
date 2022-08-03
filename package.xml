@@ -15,6 +15,11 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Student__c-Offline Layout</members>
+        <members>Student__c-Student Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Student__c.All</members>
         <members>Student__c.PhoneCheck</members>
         <members>Student__c.PhoneChecks</members>
